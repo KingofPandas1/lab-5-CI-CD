@@ -2,7 +2,6 @@
 import math
 
 
-import math
 
 def area(r):
     if r < 0:
